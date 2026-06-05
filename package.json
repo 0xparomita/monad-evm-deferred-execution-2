@@ -1,0 +1,10 @@
+{
+  "name": "monad-evm-deferred-execution",
+  "version": "1.0.0",
+  "description": "Simulation framework for Monad consensus and deferred execution decoupling",
+  "main": "simulateDeferredPipeline.js",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
